@@ -1,0 +1,19 @@
+# Virtual environment
+env/
+
+# Logs
+logs/
+*.log
+
+# Hash files
+*.hash
+
+# Configuration files
+*.env
+
+# Others
+*.req_hash
+*.json
+__pycache__
+samplefile
+chroma_db
